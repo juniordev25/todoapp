@@ -7,7 +7,7 @@ A lightweight, responsive Todo app built with vanilla **HTML**, **CSS**, and **J
 - Repo: [Add your repo link here]
 
 ## Preview
-![Todo App Screenshot](./assets/screenshot.png)
+![Todo App Screenshot](app1.png)
 > Add a screenshot to `assets/screenshot.png` (or update the path above).
 
 ---
