@@ -2,9 +2,6 @@
 
 A lightweight, responsive Todo app built with vanilla **HTML**, **CSS**, and **JavaScript**. Create tasks, mark them complete, and keep your day organized with a clean UI and simple interactions—no frameworks required.
 
-## Live Demo
-- Demo: [Add your link here]
-- Repo: [Add your repo link here]
 
 ## Preview
 ![Todo App Screenshot](app1.png)
@@ -43,5 +40,4 @@ todo-app/
 ├─ index.html
 ├─ style.css
 ├─ script.js
-└─ assets/
    └─ screenshot.png
